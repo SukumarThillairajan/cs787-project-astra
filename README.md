@@ -59,3 +59,9 @@ python build/compare_bench.py <folder with the unzipped final outputs> catalina
 ## Report
 
 The final report is `report/CS787_Group4_Report.pdf`.
+
+**Note on the submitted version.** In the interest of time, we were not able to submit the corrected report on
+time: the version uploaded to the course portal on 13 November 2026 is an earlier draft. The PDF in this
+repository is the corrected final report. Its results are the same; it fixes layout and cross-reference errors,
+corrects a few descriptions, completes the references and explains the reasons behind the design choices in the
+text.
