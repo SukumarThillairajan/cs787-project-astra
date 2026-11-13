@@ -55,3 +55,7 @@ python build/compare_bench.py <folder with the unzipped final outputs> catalina
   augmentation with generative adversarial networks. ApJ 935, 2022 (arXiv:2205.06758).
 - J. Martínez-Palomera, J. S. Bloom, E. S. Abrahams. Deep generative modeling of periodic variable stars using
   physical parameters. arXiv:2005.07773, 2020.
+
+## Report
+
+The final report is `report/CS787_Group4_Report.pdf`.
